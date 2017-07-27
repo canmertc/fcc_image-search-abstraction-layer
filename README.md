@@ -18,15 +18,15 @@ You can get feedback on your project by sharing it with your friends on Facebook
 
 
 
-• Unsplash API have used to provide images.
+• Unsplash API have used to provide image links and informations
 
 Ide:
 
-https://ide.c9.io/canmertc/fcc_image-search-abstraction-layer
+https://canmertc-fcc-image-search-abstraction-layer.glitch.me/api/imagesearch/
 
 
-Test:
+Test on glitch.com:
 
-https://fcc-image-search-abstraction-layer-canmertc.c9users.io/api/imagesearch/dogs?offset=2
+https://canmertc-fcc-image-search-abstraction-layer.glitch.me/api/imagesearch/cats?offset=1
 
-https://fcc-image-search-abstraction-layer-canmertc.c9users.io/api/latest/imagesearch
+https://canmertc-fcc-image-search-abstraction-layer.glitch.me/api/latest/imagesearch/
